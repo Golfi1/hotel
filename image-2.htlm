@@ -1,0 +1,852 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://aladain.000webhostapp.com/aladain%20logo/play.png" group-title="Film",[COLOR yellow][B]                                                   [[COLOR lime][B]Film En francais[COLOR yellow]][/B][/COLOR]
+http://google.com
+#EXTINF:-1 tvg-logo="https://aladain.000webhostapp.com/aladain%20logo/updatec.jpg" group-title="Golfi ",[COLOR yellow][B]                                   [[COLOR magenta][B]Golfi Mise A Jour Le 01/05/2023[COLOR yellow]][/B][/COLOR]
+http://google.com
+#EXTVLCOPT:network-caching=10000
+#EXTINF:-1,FR: NATIONAL GEO FR
+http://philgrim.online:2082/izanm/izanm/241986
+#EXTINF:-1,FR: NATIONAL GEO WILD FR
+http://philgrim.online:2082/izanm/izanm/241987
+#EXTINF:-1,FR: TF1 HD
+http://philgrim.online:2082/izanm/izanm/241937
+#EXTINF:-1,FR: TF1 +1
+http://philgrim.online:2082/izanm/izanm/241938
+#EXTINF:-1,FR: TF1 SERIES FILMS HD
+http://philgrim.online:2082/izanm/izanm/241939
+#EXTINF:-1,FR: M6 HD
+http://philgrim.online:2082/izanm/izanm/241940
+#EXTINF:-1,FR: C8 HD
+http://philgrim.online:2082/izanm/izanm/241941
+#EXTINF:-1,FR: W9 HD
+http://philgrim.online:2082/izanm/izanm/241942
+#EXTINF:-1,FR: TFX HD
+http://philgrim.online:2082/izanm/izanm/241943
+#EXTINF:-1,FR: 6TER HD
+http://philgrim.online:2082/izanm/izanm/241944
+#EXTINF:-1,FR: RTL9  HD
+http://philgrim.online:2082/izanm/izanm/241945
+#EXTINF:-1,FR: FRANCE 2 HD
+http://philgrim.online:2082/izanm/izanm/241946
+#EXTINF:-1,FR: FRANCE 3 HD
+http://philgrim.online:2082/izanm/izanm/241947
+#EXTINF:-1,FR: FRANCE 4 HD
+http://philgrim.online:2082/izanm/izanm/241948
+#EXTINF:-1,FR: France 5 HD
+http://philgrim.online:2082/izanm/izanm/241949
+#EXTINF:-1,FR: FRANCE INFO
+http://philgrim.online:2082/izanm/izanm/241950
+#EXTINF:-1,FR: BFM TV
+http://philgrim.online:2082/izanm/izanm/241951
+#EXTINF:-1,FR: BFM PARIS ??
+http://philgrim.online:2082/izanm/izanm/241952
+#EXTINF:-1,FR: BFM BUSINESS SD
+http://philgrim.online:2082/izanm/izanm/241953
+#EXTINF:-1,FR: RT  FRANCE
+http://philgrim.online:2082/izanm/izanm/241954
+#EXTINF:-1,FR: TVR (Bretagne) (720p)
+http://philgrim.online:2082/izanm/izanm/241955
+#EXTINF:-1,FR: TV5 MONDE INFO
+http://philgrim.online:2082/izanm/izanm/241956
+#EXTINF:-1,FR: MDL
+http://philgrim.online:2082/izanm/izanm/241957
+#EXTINF:-1,FR: TV78
+http://philgrim.online:2082/izanm/izanm/241958
+#EXTINF:-1,FR: AB1 ??
+http://philgrim.online:2082/izanm/izanm/241959
+#EXTINF:-1,FR: ANIMAUX HD
+http://philgrim.online:2082/izanm/izanm/241960
+#EXTINF:-1,FR: USHUAIA TV HD
+http://philgrim.online:2082/izanm/izanm/241961
+#EXTINF:-1,FR: CHERIE 25 HD
+http://philgrim.online:2082/izanm/izanm/241962
+#EXTINF:-1,FR: FRANCE 24
+http://philgrim.online:2082/izanm/izanm/241963
+#EXTINF:-1,FR: 13EME Rue HD
+http://philgrim.online:2082/izanm/izanm/241964
+#EXTINF:-1,FR: ACTION HD
+http://philgrim.online:2082/izanm/izanm/241965
+#EXTINF:-1,FR: CANAL+ HD
+http://philgrim.online:2082/izanm/izanm/241966
+#EXTINF:-1,FR: CANAl+ CINEMA HD
+http://philgrim.online:2082/izanm/izanm/241967
+#EXTINF:-1,FR: CANAL+ KIDS HD
+http://philgrim.online:2082/izanm/izanm/241968
+#EXTINF:-1,FR: CANAL+ DECALE HD
+http://philgrim.online:2082/izanm/izanm/241969
+#EXTINF:-1,FR: CINE PREMIER HD
+http://philgrim.online:2082/izanm/izanm/241970
+#EXTINF:-1,FR: CINE FRISSON HD
+http://philgrim.online:2082/izanm/izanm/241971
+#EXTINF:-1,FR: CINE FAMIZ HD
+http://philgrim.online:2082/izanm/izanm/241972
+#EXTINF:-1,FR: CINE Emotion HD
+http://philgrim.online:2082/izanm/izanm/241973
+#EXTINF:-1,FR: CINE CLASSIC HD
+http://philgrim.online:2082/izanm/izanm/241974
+#EXTINF:-1,FR: MUSEUM
+http://philgrim.online:2082/izanm/izanm/241975
+#EXTINF:-1,FR: POLAR +
+http://philgrim.online:2082/izanm/izanm/241976
+#EXTINF:-1,FR: CGTN Français
+http://philgrim.online:2082/izanm/izanm/241977
+#EXTINF:-1,FR: Francophonie
+http://philgrim.online:2082/izanm/izanm/241978
+#EXTINF:-1,FR: Fashion TV Midnite Secrets
+http://philgrim.online:2082/izanm/izanm/241979
+#EXTINF:-1,FR: TCM CINEMA HD
+http://philgrim.online:2082/izanm/izanm/241980
+#EXTINF:-1,FR: SERIE CLUB HD
+http://philgrim.online:2082/izanm/izanm/241981
+#EXTINF:-1,FR: TEVA HD
+http://philgrim.online:2082/izanm/izanm/241982
+#EXTINF:-1,FR: CRIME DISTRICT HD
+http://philgrim.online:2082/izanm/izanm/241983
+#EXTINF:-1,FR: ARTE HD
+http://philgrim.online:2082/izanm/izanm/241984
+#EXTINF:-1,FR: CHASSE ET PECHE HD
+http://philgrim.online:2082/izanm/izanm/241985
+#EXTINF:-1,FR: SCIENCE ET VIE TV
+http://philgrim.online:2082/izanm/izanm/241988
+#EXTINF:-1,FR: PARAMOUNT CH DECALE
+http://philgrim.online:2082/izanm/izanm/241989
+#EXTINF:-1,FR: PARAMOUNT CHANNEL
+http://philgrim.online:2082/izanm/izanm/241990
+#EXTINF:-1,FR: PARIS PREMIERE ??
+http://philgrim.online:2082/izanm/izanm/241991
+#EXTINF:-1,FR: TV BREIZH ??
+http://philgrim.online:2082/izanm/izanm/241992
+#EXTINF:-1,FR: COMEDIE+ HD
+http://philgrim.online:2082/izanm/izanm/241993
+#EXTINF:-1,FR: TV78
+http://philgrim.online:2082/izanm/izanm/241994
+#EXTINF:-1,FR: NOTELE TV
+http://philgrim.online:2082/izanm/izanm/241995
+#EXTINF:-1,FR: ALSACE 20 HD
+http://philgrim.online:2082/izanm/izanm/241996
+#EXTINF:-1,FR: TOUTE L HISTOIRE HD
+http://philgrim.online:2082/izanm/izanm/241997
+#EXTINF:-1,FR: DISCOVERY HD
+http://philgrim.online:2082/izanm/izanm/241998
+#EXTINF:-1,FR: DISCOVERY SCIENCE-FR HD
+http://philgrim.online:2082/izanm/izanm/241999
+#EXTINF:-1,FR: Vosges TV HD
+http://philgrim.online:2082/izanm/izanm/242000
+#EXTINF:-1,FR: PLANETE AE HD
+http://philgrim.online:2082/izanm/izanm/242001
+#EXTINF:-1,FR: PLANETE+ CI
+http://philgrim.online:2082/izanm/izanm/242002
+#EXTINF:-1,FR: PLANETE+ HD
+http://philgrim.online:2082/izanm/izanm/242003
+#EXTINF:-1,FR: SEASON HD
+http://philgrim.online:2082/izanm/izanm/242004
+#EXTINF:-1,FR:  Alpe d’Huez TV
+http://philgrim.online:2082/izanm/izanm/242005
+#EXTINF:-1,FR: MY TV
+http://philgrim.online:2082/izanm/izanm/242006
+#EXTINF:-1,FR: AUTO MOTO ??
+http://philgrim.online:2082/izanm/izanm/242007
+#EXTINF:-1,FR: CANAL PLAY 1 FR
+http://philgrim.online:2082/izanm/izanm/242008
+#EXTINF:-1,FR: CANAL PLAY 2 FR
+http://philgrim.online:2082/izanm/izanm/242009
+#EXTINF:-1,CANALPLAY 4 FR
+http://philgrim.online:2082/izanm/izanm/242010
+#EXTINF:-1,FR: CANALPLAY 3 FR
+http://philgrim.online:2082/izanm/izanm/242011
+#EXTINF:-1,CANALPLAY 5 FR
+http://philgrim.online:2082/izanm/izanm/242012
+#EXTINF:-1,FR: CANALPLAY 9 FR
+http://philgrim.online:2082/izanm/izanm/242013
+#EXTINF:-1,CANALPLAY 10 FR
+http://philgrim.online:2082/izanm/izanm/242014
+#EXTINF:-1,FR: OCS GEANTS HD
+http://philgrim.online:2082/izanm/izanm/242015
+#EXTINF:-1,FR: OCS CHOC HD
+http://philgrim.online:2082/izanm/izanm/242016
+#EXTINF:-1,FR: OCS CITY HD
+http://philgrim.online:2082/izanm/izanm/242017
+#EXTINF:-1,FR: OCS Max HD
+http://philgrim.online:2082/izanm/izanm/242018
+#EXTINF:-1,FR: JOCKER KIDS
+http://philgrim.online:2082/izanm/izanm/242019
+#EXTINF:-1,FR: JOCKER MUSIC
+http://philgrim.online:2082/izanm/izanm/242020
+#EXTINF:-1,FR: JOCKER RELAX
+http://philgrim.online:2082/izanm/izanm/242021
+#EXTINF:-1,FR: M6 MUSIC FHD
+http://philgrim.online:2082/izanm/izanm/242022
+#EXTINF:-1,ABXPLORE FHD
+http://philgrim.online:2082/izanm/izanm/242023
+#EXTINF:-1,FR: GAME ONE HD
+http://philgrim.online:2082/izanm/izanm/242024
+#EXTINF:-1,FR: MANGA HD
+http://philgrim.online:2082/izanm/izanm/242025
+#EXTINF:-1,FR: GULLI HD
+http://philgrim.online:2082/izanm/izanm/242026
+#EXTINF:-1,FR: CARTOON NETWORK HD
+http://philgrim.online:2082/izanm/izanm/242027
+#EXTINF:-1,FR: DISNEY CHANNEL-FR
+http://philgrim.online:2082/izanm/izanm/242028
+#EXTINF:-1,FR: DISNEY JUNIOR HD
+http://philgrim.online:2082/izanm/izanm/242029
+#EXTINF:-1,FR: DISNEY XD HD
+http://philgrim.online:2082/izanm/izanm/242030
+#EXTINF:-1,FR: NICKELODEON FR HD
+http://philgrim.online:2082/izanm/izanm/242031
+#EXTINF:-1,FR: NICKELODEON JUNIOR
+http://philgrim.online:2082/izanm/izanm/242032
+#EXTINF:-1,FR: NICKELODEON 4 TEEN FULL HD
+http://philgrim.online:2082/izanm/izanm/242033
+#EXTINF:-1,FR: TELETOON +
+http://philgrim.online:2082/izanm/izanm/242034
+#EXTINF:-1,FR: BOOMERANG HD
+http://philgrim.online:2082/izanm/izanm/242035
+#EXTINF:-1,FR: PIWI HD
+http://philgrim.online:2082/izanm/izanm/242036
+#EXTINF:-1,FR: TIJI HD
+http://philgrim.online:2082/izanm/izanm/242037
+#EXTINF:-1,FR: BOING HD
+http://philgrim.online:2082/izanm/izanm/242038
+#EXTINF:-1,FR: J-ONE HD
+http://philgrim.online:2082/izanm/izanm/242039
+#EXTINF:-1,FR: CANAL J FHD
+http://philgrim.online:2082/izanm/izanm/242040
+#EXTINF:-1,FR: TOONAMI HD
+http://philgrim.online:2082/izanm/izanm/242041
+#EXTINF:-1,FR: RMC DECOUVERTE HD
+http://philgrim.online:2082/izanm/izanm/242042
+#EXTINF:-1,FR: RMC STORY HD
+http://philgrim.online:2082/izanm/izanm/242043
+#EXTINF:-1,FR WEO HD
+http://philgrim.online:2082/izanm/izanm/242044
+#EXTINF:-1,FR:  E! ENTERTAINMENT HD
+http://philgrim.online:2082/izanm/izanm/242045
+#EXTINF:-1,FR: Orange Cine 1
+http://philgrim.online:2082/izanm/izanm/242046
+#EXTINF:-1,Orange Cine 2
+http://philgrim.online:2082/izanm/izanm/242047
+#EXTINF:-1,FR: Orange Cine 3
+http://philgrim.online:2082/izanm/izanm/242048
+#EXTINF:-1,FR: Orange Cine 4
+http://philgrim.online:2082/izanm/izanm/242049
+#EXTINF:-1,FR: Orange Cine 5 ACTION HD
+http://philgrim.online:2082/izanm/izanm/242050
+#EXTINF:-1,FR: Syfy HD
+http://philgrim.online:2082/izanm/izanm/242051
+#EXTINF:-1,FR: C STAR HD
+http://philgrim.online:2082/izanm/izanm/242052
+#EXTINF:-1,FR: TREK HD
+http://philgrim.online:2082/izanm/izanm/242053
+#EXTINF:-1,FR: TFX_HD
+http://philgrim.online:2082/izanm/izanm/242054
+#EXTINF:-1,FR: TMC HD
+http://philgrim.online:2082/izanm/izanm/242055
+#EXTINF:-1,FR: AB3
+http://philgrim.online:2082/izanm/izanm/242056
+#EXTINF:-1,FR: C NEWS HD
+http://philgrim.online:2082/izanm/izanm/242057
+#EXTINF:-1,FR: Investigation Discovery FHD
+http://philgrim.online:2082/izanm/izanm/242058
+#EXTINF:-1,FR: NAGO DBM TV
+http://philgrim.online:2082/izanm/izanm/242059
+#EXTINF:-1,FR: LCP HD
+http://philgrim.online:2082/izanm/izanm/242060
+#EXTINF:-1,FR: PUBLIC SENAT
+http://philgrim.online:2082/izanm/izanm/242061
+#EXTINF:-1,FR: Monaco Info
+http://philgrim.online:2082/izanm/izanm/242062
+#EXTINF:-1,FR: FR NRJ 12 HD
+http://philgrim.online:2082/izanm/izanm/242063
+#EXTINF:-1,FR: BEST CABLE / TV BREEZ HD
+http://philgrim.online:2082/izanm/izanm/242064
+#EXTINF:-1,FR: MTV HITS
+http://philgrim.online:2082/izanm/izanm/242065
+#EXTINF:-1,FR: MTV HD
+http://philgrim.online:2082/izanm/izanm/242066
+#EXTINF:-1,FR: NRJ HIT
+http://philgrim.online:2082/izanm/izanm/242067
+#EXTINF:-1,FR: NRJ 12 HD
+http://philgrim.online:2082/izanm/izanm/242068
+#EXTINF:-1,FR: MEZZO HD
+http://philgrim.online:2082/izanm/izanm/242069
+#EXTINF:-1,FR: TRACE TOCA
+http://philgrim.online:2082/izanm/izanm/242070
+#EXTINF:-1,FR: TRACE AFRICA FRANCE
+http://philgrim.online:2082/izanm/izanm/242071
+#EXTINF:-1,FR: TRACE URBAN DOM
+http://philgrim.online:2082/izanm/izanm/242072
+#EXTINF:-1,FR: TRACE URBAN INTER
+http://philgrim.online:2082/izanm/izanm/242073
+#EXTINF:-1,FR: TRACE TROPICAL
+http://philgrim.online:2082/izanm/izanm/242074
+#EXTINF:-1,FR: TRACE GOSPEL
+http://philgrim.online:2082/izanm/izanm/242075
+#EXTINF:-1,FR: TRACE NAIJA
+http://philgrim.online:2082/izanm/izanm/242076
+#EXTINF:-1,FR: TRACE KITOKO
+http://philgrim.online:2082/izanm/izanm/242077
+#EXTINF:-1,FR: A2i Music
+http://philgrim.online:2082/izanm/izanm/242078
+#EXTINF:-1,FR: TRACE HIP HOP
+http://philgrim.online:2082/izanm/izanm/242079
+#EXTINF:-1,FR: DanceStar LOCAL MUSIC TV
+http://philgrim.online:2082/izanm/izanm/242080
+#EXTINF:-1,FR: TRACE AFRICA ENGLAIS
+http://philgrim.online:2082/izanm/izanm/242081
+#EXTINF:-1,FR: AFROBEATS
+http://philgrim.online:2082/izanm/izanm/242082
+#EXTINF:-1,FR: TRACE VANILLA
+http://philgrim.online:2082/izanm/izanm/242083
+#EXTINF:-1,FR: Music Channel
+http://philgrim.online:2082/izanm/izanm/242084
+#EXTINF:-1,FR: GENERATIONS / P2M TV HD
+http://philgrim.online:2082/izanm/izanm/242085
+#EXTINF:-1,FR: PRESS TV FHD
+http://philgrim.online:2082/izanm/izanm/242086
+#EXTINF:-1,FR: i24 News FHD
+http://philgrim.online:2082/izanm/izanm/242087
+#EXTINF:-1,A LA CARTE 1
+http://philgrim.online:2082/izanm/izanm/242088
+#EXTINF:-1,A LA CARTE 2
+http://philgrim.online:2082/izanm/izanm/242089
+#EXTINF:-1,A LA CARTE 3
+http://philgrim.online:2082/izanm/izanm/242090
+#EXTINF:-1,A LA CARTE 4
+http://philgrim.online:2082/izanm/izanm/242091
+#EXTINF:-1,A LA CARTE 5
+http://philgrim.online:2082/izanm/izanm/242092
+#EXTINF:-1,A LA CARTE 6
+http://philgrim.online:2082/izanm/izanm/242093
+#EXTINF:-1,A LA CARTE 7
+http://philgrim.online:2082/izanm/izanm/242094
+#EXTINF:-1,A LA CARTE 8
+http://philgrim.online:2082/izanm/izanm/242095
+#EXTINF:-1,A LA CARTE 9
+http://philgrim.online:2082/izanm/izanm/242096
+#EXTINF:-1,A LA CARTE 10
+http://philgrim.online:2082/izanm/izanm/242097
+#EXTINF:-1,A LA CARTE 11
+http://philgrim.online:2082/izanm/izanm/242098
+#EXTINF:-1,A LA CARTE 12
+http://philgrim.online:2082/izanm/izanm/242099
+#EXTINF:-1,A LA CARTE 13
+http://philgrim.online:2082/izanm/izanm/242100
+#EXTINF:-1,A LA CARTE 14
+http://philgrim.online:2082/izanm/izanm/242101
+#EXTINF:-1,A LA CARTE 15
+http://philgrim.online:2082/izanm/izanm/242102
+#EXTINF:-1,A LA CARTE 16
+http://philgrim.online:2082/izanm/izanm/242103
+#EXTINF:-1,A LA CARTE 17
+http://philgrim.online:2082/izanm/izanm/242104
+#EXTINF:-1,A LA CARTE 18
+http://philgrim.online:2082/izanm/izanm/242105
+#EXTINF:-1,A LA CARTE 19
+http://philgrim.online:2082/izanm/izanm/242106
+#EXTINF:-1,A LA CARTE 20
+http://philgrim.online:2082/izanm/izanm/242107
+#EXTINF:-1,??? FRANCE TNT ???
+http://philgrim.online:2082/izanm/izanm/242108
+#EXTINF:-1,FR: TF1 SD
+http://philgrim.online:2082/izanm/izanm/242109
+#EXTINF:-1,FR: FRANCE 2 SD
+http://philgrim.online:2082/izanm/izanm/242110
+#EXTINF:-1,FR: France 3 SD
+http://philgrim.online:2082/izanm/izanm/242111
+#EXTINF:-1,FR: France 4 SD
+http://philgrim.online:2082/izanm/izanm/242112
+#EXTINF:-1,FR: France 5 SD
+http://philgrim.online:2082/izanm/izanm/242113
+#EXTINF:-1,FR: 6ter SD
+http://philgrim.online:2082/izanm/izanm/242114
+#EXTINF:-1,FR: M6 SD
+http://philgrim.online:2082/izanm/izanm/242115
+#EXTINF:-1,FR: Francophonie24
+http://philgrim.online:2082/izanm/izanm/242116
+#EXTINF:-1,FR: TF1 SERIES FILMS SD
+http://philgrim.online:2082/izanm/izanm/242117
+#EXTINF:-1,FR: TFX SD
+http://philgrim.online:2082/izanm/izanm/242118
+#EXTINF:-1,FR: RTL 9 SD
+http://philgrim.online:2082/izanm/izanm/242119
+#EXTINF:-1,FR: TEVA
+http://philgrim.online:2082/izanm/izanm/242120
+#EXTINF:-1,FR: TMC SD
+http://philgrim.online:2082/izanm/izanm/242121
+#EXTINF:-1,FR: W9 SD
+http://philgrim.online:2082/izanm/izanm/242122
+#EXTINF:-1,FR: C8 SD
+http://philgrim.online:2082/izanm/izanm/242123
+#EXTINF:-1,FR: POLAR + HD
+http://philgrim.online:2082/izanm/izanm/242124
+#EXTINF:-1,FR: Arte HD
+http://philgrim.online:2082/izanm/izanm/242125
+#EXTINF:-1,FR: CANAL+ CINEMA SD
+http://philgrim.online:2082/izanm/izanm/242126
+#EXTINF:-1,FR: CANAL+ DECALE SD
+http://philgrim.online:2082/izanm/izanm/242127
+#EXTINF:-1,FR: CANAL+ KIDS SD
+http://philgrim.online:2082/izanm/izanm/242128
+#EXTINF:-1,FR: CANAL+ SERIES
+http://philgrim.online:2082/izanm/izanm/242129
+#EXTINF:-1,FR: CHASSE ET PECHE SD
+http://philgrim.online:2082/izanm/izanm/242130
+#EXTINF:-1,FR: CHERIE 25 SD
+http://philgrim.online:2082/izanm/izanm/242131
+#EXTINF:-1,FR: CINE+ CLASSIC
+http://philgrim.online:2082/izanm/izanm/242132
+#EXTINF:-1,FR: CINE+ CLUB
+http://philgrim.online:2082/izanm/izanm/242133
+#EXTINF:-1,FR: CINE+ FAMIZ SD
+http://philgrim.online:2082/izanm/izanm/242134
+#EXTINF:-1,FR: CINE+ FRISSON SD
+http://philgrim.online:2082/izanm/izanm/242135
+#EXTINF:-1,FR: CINE+ PREMIER SD
+http://philgrim.online:2082/izanm/izanm/242136
+#EXTINF:-1,FR: CNEWS HD
+http://philgrim.online:2082/izanm/izanm/242137
+#EXTINF:-1,FR: CSTAR SD
+http://philgrim.online:2082/izanm/izanm/242138
+#EXTINF:-1,FR: Discovery Science
+http://philgrim.online:2082/izanm/izanm/242139
+#EXTINF:-1,FR: E ENTERTAINMENT SD
+http://philgrim.online:2082/izanm/izanm/242140
+#EXTINF:-1,FR: Francophonie SD
+http://philgrim.online:2082/izanm/izanm/242141
+#EXTINF:-1,FR: EMCI TV
+http://philgrim.online:2082/izanm/izanm/242142
+#EXTINF:-1,FR: RMC Sport 1 HD
+http://philgrim.online:2082/izanm/izanm/242143
+#EXTINF:-1,FR: RMC Sport 2 HD
+http://philgrim.online:2082/izanm/izanm/242144
+#EXTINF:-1,FR: BEIN SPORT  1 HD FR
+http://philgrim.online:2082/izanm/izanm/242145
+#EXTINF:-1,FR: BEIN SPORT  2 HD FR
+http://philgrim.online:2082/izanm/izanm/242146
+#EXTINF:-1,FR: BEIN SPORT  3 HD FR
+http://philgrim.online:2082/izanm/izanm/242147
+#EXTINF:-1,FR: INFOSPORT HD
+http://philgrim.online:2082/izanm/izanm/242148
+#EXTINF:-1,FR: CANAL+ SPORTS HD
+http://philgrim.online:2082/izanm/izanm/242149
+#EXTINF:-1,FR: CANAL+ LIGUE 1 FHD
+http://philgrim.online:2082/izanm/izanm/242150
+#EXTINF:-1,FR: L Equipe 21
+http://philgrim.online:2082/izanm/izanm/242151
+#EXTINF:-1,FR: BEIN SPORT MAX 4
+http://philgrim.online:2082/izanm/izanm/242152
+#EXTINF:-1,FR: BEIN SPORT MAX 5
+http://philgrim.online:2082/izanm/izanm/242153
+#EXTINF:-1,FR: BEIN SPORT MAX 6
+http://philgrim.online:2082/izanm/izanm/242154
+#EXTINF:-1,FR: BEIN SPORT MAX 7
+http://philgrim.online:2082/izanm/izanm/242155
+#EXTINF:-1,FR: BEIN SPORT MAX 8
+http://philgrim.online:2082/izanm/izanm/242156
+#EXTINF:-1,FR: BEIN SPORT MAX 9
+http://philgrim.online:2082/izanm/izanm/242157
+#EXTINF:-1,FR: CANAL+ FOOT HD
+http://philgrim.online:2082/izanm/izanm/242158
+#EXTINF:-1,FR: RMC Sport 3 HD
+http://philgrim.online:2082/izanm/izanm/242159
+#EXTINF:-1,FR: RMC Sport 4 HD
+http://philgrim.online:2082/izanm/izanm/242160
+#EXTINF:-1,FR: RMC SPORT LIVE 5
+http://philgrim.online:2082/izanm/izanm/242161
+#EXTINF:-1,FR: RMC SPORT LIVE 6
+http://philgrim.online:2082/izanm/izanm/242162
+#EXTINF:-1,FR: RMC SPORT LIVE 7
+http://philgrim.online:2082/izanm/izanm/242163
+#EXTINF:-1,FR: RMC SPORT LIVE 8
+http://philgrim.online:2082/izanm/izanm/242164
+#EXTINF:-1,FR: RMC SPORT LIVE 9
+http://philgrim.online:2082/izanm/izanm/242165
+#EXTINF:-1,FR: RMC SPORT LIVE 10
+http://philgrim.online:2082/izanm/izanm/242166
+#EXTINF:-1,FR: RMC SPORT LIVE 11
+http://philgrim.online:2082/izanm/izanm/242167
+#EXTINF:-1,FR: RMC SPORT LIVE 12
+http://philgrim.online:2082/izanm/izanm/242168
+#EXTINF:-1,FR: RMC SPORT LIVE 13
+http://philgrim.online:2082/izanm/izanm/242169
+#EXTINF:-1,FR: BEIN SPORT MAX 10
+http://philgrim.online:2082/izanm/izanm/242170
+#EXTINF:-1,FR: EUROSPORT 1 HD
+http://philgrim.online:2082/izanm/izanm/242171
+#EXTINF:-1,FR: EUROSPORT 2 HD
+http://philgrim.online:2082/izanm/izanm/242172
+#EXTINF:-1,FR: EQUIDIA LIVE  HD
+http://philgrim.online:2082/izanm/izanm/242173
+#EXTINF:-1,FR: Golf HD
+http://philgrim.online:2082/izanm/izanm/242174
+#EXTINF:-1,FR: Foot+ 24/24 HD
+http://philgrim.online:2082/izanm/izanm/242175
+#EXTINF:-1,FR: AUTO MOTO LA CHAINE HD
+http://philgrim.online:2082/izanm/izanm/242176
+#EXTINF:-1,FR: Motorvision TV
+http://philgrim.online:2082/izanm/izanm/242177
+#EXTINF:-1,FR: BKNETFLIX 1 H265/HEVC
+http://philgrim.online:2082/izanm/izanm/242178
+#EXTINF:-1,FR: BKNETFLIX 3 H265/HEVC
+http://philgrim.online:2082/izanm/izanm/242179
+#EXTINF:-1,NETFLIX MOVIES 3 CRIME-DRAME HD FR
+http://philgrim.online:2082/izanm/izanm/242180
+#EXTINF:-1,FR: BKNETFLIX 2 H265/HEVC
+http://philgrim.online:2082/izanm/izanm/242181
+#EXTINF:-1,FR: BKNETFLIX 4 H265/HEVC
+http://philgrim.online:2082/izanm/izanm/242182
+#EXTINF:-1,NETFLIX MOVIES 7 HD FR
+http://philgrim.online:2082/izanm/izanm/242183
+#EXTINF:-1,NETFLIX MOVIES 8 HD FR
+http://philgrim.online:2082/izanm/izanm/242184
+#EXTINF:-1,NETFLIX Play TV KIDS 1
+http://philgrim.online:2082/izanm/izanm/242185
+#EXTINF:-1,NETFLIX Play TV KIDS 2
+http://philgrim.online:2082/izanm/izanm/242186
+#EXTINF:-1,NETFLIX Play TV KIDS 3
+http://philgrim.online:2082/izanm/izanm/242187
+#EXTINF:-1,NETFLIX Play TV KIDS 4
+http://philgrim.online:2082/izanm/izanm/242188
+#EXTINF:-1,MC: Rap
+http://philgrim.online:2082/izanm/izanm/242189
+#EXTINF:-1,MC: HIT LIST
+http://philgrim.online:2082/izanm/izanm/242190
+#EXTINF:-1,MC: Hip-Hop RnB
+http://philgrim.online:2082/izanm/izanm/242191
+#EXTINF:-1,MC Todays Country
+http://philgrim.online:2082/izanm/izanm/242192
+#EXTINF:-1,MC: Rap 2K
+http://philgrim.online:2082/izanm/izanm/242193
+#EXTINF:-1,MC: R?B/Soul
+http://philgrim.online:2082/izanm/izanm/242194
+#EXTINF:-1,MC: Dance EDM
+http://philgrim.online:2082/izanm/izanm/242195
+#EXTINF:-1,MC: Musica Urbana
+http://philgrim.online:2082/izanm/izanm/242196
+#EXTINF:-1,MC: Indie
+http://philgrim.online:2082/izanm/izanm/242197
+#EXTINF:-1,MC: Kidz Only
+http://philgrim.online:2082/izanm/izanm/242198
+#EXTINF:-1,MC: Mexicana
+http://philgrim.online:2082/izanm/izanm/242199
+#EXTINF:-1,MC: Pop ? Country
+http://philgrim.online:2082/izanm/izanm/242200
+#EXTINF:-1,MC: Pop Hits
+http://philgrim.online:2082/izanm/izanm/242201
+#EXTINF:-1,MC: Tropicales
+http://philgrim.online:2082/izanm/izanm/242202
+#EXTINF:-1,MC: Y2K
+http://philgrim.online:2082/izanm/izanm/242203
+#EXTINF:-1,FR: OL TV FHD
+http://philgrim.online:2082/izanm/izanm/242204
+#EXTINF:-1,FR: CANAL+ FORMULE 1 FHD
+http://philgrim.online:2082/izanm/izanm/242205
+#EXTINF:-1,FR: Pluto TV Dating (720p)
+http://philgrim.online:2082/izanm/izanm/242206
+#EXTINF:-1,FR: Pluto TV Les Cordier (240p)
+http://philgrim.online:2082/izanm/izanm/242207
+#EXTINF:-1,FR: Pluto TV Kids Collection (720p)
+http://philgrim.online:2082/izanm/izanm/242208
+#EXTINF:-1,FR: Pluto TV Animaux
+http://philgrim.online:2082/izanm/izanm/242209
+#EXTINF:-1,FR: Pluto TV Kids Séries+ (720p)
+http://philgrim.online:2082/izanm/izanm/242210
+#EXTINF:-1,FR: Pluto TV La Chica Invisible (720p)
+http://philgrim.online:2082/izanm/izanm/242211
+#EXTINF:-1,FR: Pluto TV Les filles d'à côté (720p)
+http://philgrim.online:2082/izanm/izanm/242212
+#EXTINF:-1,FR: Pluto TV Les Nouveaux Detectives (480p)
+http://philgrim.online:2082/izanm/izanm/242213
+#EXTINF:-1,FR: Pluto TV Live in Concert (720p) (Music)
+http://philgrim.online:2082/izanm/izanm/242214
+#EXTINF:-1,FR: Pluto TV Louis La Brocante (480p)
+http://philgrim.online:2082/izanm/izanm/242215
+#EXTINF:-1,FR: Pluto TV MTV Catfish+ (720p) (Series)
+http://philgrim.online:2082/izanm/izanm/242216
+#EXTINF:-1,FR: Pluto TV Plus Belle La Vie (480p)
+http://philgrim.online:2082/izanm/izanm/242217
+#EXTINF:-1,FR: Pluto TV Plus Belle la Vie+ (720p) (Series)
+http://philgrim.online:2082/izanm/izanm/242218
+#EXTINF:-1,FR: Pluto TV Romance (720p) (movies)
+http://philgrim.online:2082/izanm/izanm/242219
+#EXTINF:-1,FR: Pluto TV Sports (720p)
+http://philgrim.online:2082/izanm/izanm/242220
+#EXTINF:-1,FR: Pluto TV Telenovela (720p)
+http://philgrim.online:2082/izanm/izanm/242221
+#EXTINF:-1,FR: Pluto TV Tortues Ninja TV (720p)
+http://philgrim.online:2082/izanm/izanm/242222
+#EXTINF:-1,FR: Pluto TV TROL (720p)
+http://philgrim.online:2082/izanm/izanm/242223
+#EXTINF:-1,FR: Pluto TV Yoga (720p) Sports
+http://philgrim.online:2082/izanm/izanm/242224
+#EXTINF:-1,FR: Pluto TV Inside (720p)
+http://philgrim.online:2082/izanm/izanm/242225
+#EXTINF:-1,FR: Pluto TV iCarly+ (720p)
+http://philgrim.online:2082/izanm/izanm/242226
+#EXTINF:-1,FR: Pluto TV Drama+ (720p)
+http://philgrim.online:2082/izanm/izanm/242227
+#EXTINF:-1,FR: Pluto TV Extrême (720p)
+http://philgrim.online:2082/izanm/izanm/242228
+#EXTINF:-1,FR: Pluto TV FailArmy (720p)
+http://philgrim.online:2082/izanm/izanm/242229
+#EXTINF:-1,FR: Pluto TV Gaming TV (720p)
+http://philgrim.online:2082/izanm/izanm/242230
+#EXTINF:-1,FR: Pluto TV Hélène et les garçons (720p)
+http://philgrim.online:2082/izanm/izanm/242231
+#EXTINF:-1,FR: Canal Savoir (ca)
+http://philgrim.online:2082/izanm/izanm/242232
+#EXTINF:-1,FR: SOFY TV
+http://philgrim.online:2082/izanm/izanm/242233
+#EXTINF:-1,FR: viàVosges
+http://philgrim.online:2082/izanm/izanm/242234
+#EXTINF:-1,FR: EMCI TV
+http://philgrim.online:2082/izanm/izanm/242235
+#EXTINF:-1,FR viàMATÉLÉ
+http://philgrim.online:2082/izanm/izanm/242236
+#EXTINF:-1,FR: Canal 9 (Sierre - Valais) FHD
+http://philgrim.online:2082/izanm/izanm/242237
+#EXTINF:-1,FR: PSG ULTRAS
+http://philgrim.online:2082/izanm/izanm/242238
+#EXTINF:-1,FR: PSG O VILLE LUMIERE 50 ANS DE LEG
+http://philgrim.online:2082/izanm/izanm/242239
+#EXTINF:-1,FR: PSG TV MATCHS COMPLETS 24/24
+http://philgrim.online:2082/izanm/izanm/242240
+#EXTINF:-1,FR: PSG TV RÉSUMÉS 24/24
+http://philgrim.online:2082/izanm/izanm/242241
+#EXTINF:-1,FR: PSG TV RÉACTIONS 24/24
+http://philgrim.online:2082/izanm/izanm/242242
+#EXTINF:-1,FR: PSG TV INTERVIEWS 24/24
+http://philgrim.online:2082/izanm/izanm/242243
+#EXTINF:-1,FR: PSG TV (ONLY EVENT)
+http://philgrim.online:2082/izanm/izanm/242244
+#EXTINF:-1,FR TF1 FULL
+http://philgrim.online:2082/izanm/izanm/242245
+#EXTINF:-1,FR TF1+1 FULL
+http://philgrim.online:2082/izanm/izanm/242246
+#EXTINF:-1,FR M6 FULL
+http://philgrim.online:2082/izanm/izanm/242247
+#EXTINF:-1,FR France 2 FULL
+http://philgrim.online:2082/izanm/izanm/242248
+#EXTINF:-1,FR France 3 FULL
+http://philgrim.online:2082/izanm/izanm/242249
+#EXTINF:-1,FR France 4 FULL
+http://philgrim.online:2082/izanm/izanm/242250
+#EXTINF:-1,FR FRANCE 5 FULL
+http://philgrim.online:2082/izanm/izanm/242251
+#EXTINF:-1,FR FRANCE INFO FULL
+http://philgrim.online:2082/izanm/izanm/242252
+#EXTINF:-1,FR TF1 SERIES FILMS FULL
+http://philgrim.online:2082/izanm/izanm/242253
+#EXTINF:-1,FR W9 FULL
+http://philgrim.online:2082/izanm/izanm/242254
+#EXTINF:-1,FR 13eme Rue FULL
+http://philgrim.online:2082/izanm/izanm/242255
+#EXTINF:-1,FR RTL9 FULL
+http://philgrim.online:2082/izanm/izanm/242256
+#EXTINF:-1,FR TEVA FULL
+http://philgrim.online:2082/izanm/izanm/242257
+#EXTINF:-1,FR Action FULL
+http://philgrim.online:2082/izanm/izanm/242258
+#EXTINF:-1,FR 6ter FULL
+http://philgrim.online:2082/izanm/izanm/242259
+#EXTINF:-1,FR C8 FULL
+http://philgrim.online:2082/izanm/izanm/242260
+#EXTINF:-1,FR TFX FULL
+http://philgrim.online:2082/izanm/izanm/242261
+#EXTINF:-1,FR CSTAR HITS HD
+http://philgrim.online:2082/izanm/izanm/242262
+#EXTINF:-1,FR PARIS PREMIERE FULL
+http://philgrim.online:2082/izanm/izanm/242263
+#EXTINF:-1,FR CANAL+ FULL
+http://philgrim.online:2082/izanm/izanm/242264
+#EXTINF:-1,FR Canal+ Sports FULL
+http://philgrim.online:2082/izanm/izanm/242265
+#EXTINF:-1,FR CANAL+ CINEMA FULL
+http://philgrim.online:2082/izanm/izanm/242266
+#EXTINF:-1,FR CANAL+ DECALE FULL
+http://philgrim.online:2082/izanm/izanm/242267
+#EXTINF:-1,FR Canal+ KIDS FULL
+http://philgrim.online:2082/izanm/izanm/242268
+#EXTINF:-1,FR: CANAL+ NOW FHD
+http://philgrim.online:2082/izanm/izanm/242269
+#EXTINF:-1,FR CANAL+ SERIES FULL
+http://philgrim.online:2082/izanm/izanm/242270
+#EXTINF:-1,FR Cine Premier FULL
+http://philgrim.online:2082/izanm/izanm/242271
+#EXTINF:-1,FR Cine POLAR FULL
+http://philgrim.online:2082/izanm/izanm/242272
+#EXTINF:-1,Fr Cine Frisson FULL
+http://philgrim.online:2082/izanm/izanm/242273
+#EXTINF:-1,FR Cine Famiz FULL
+http://philgrim.online:2082/izanm/izanm/242274
+#EXTINF:-1,FR Cine Emotion FULL
+http://philgrim.online:2082/izanm/izanm/242275
+#EXTINF:-1,FR Cine Club FULL
+http://philgrim.online:2082/izanm/izanm/242276
+#EXTINF:-1,FR Cine Classic FULL
+http://philgrim.online:2082/izanm/izanm/242277
+#EXTINF:-1,FR SERIE CLUB FULL
+http://philgrim.online:2082/izanm/izanm/242278
+#EXTINF:-1,FR OCS Max FULL
+http://philgrim.online:2082/izanm/izanm/242279
+#EXTINF:-1,FR OCS GEANT FULL
+http://philgrim.online:2082/izanm/izanm/242280
+#EXTINF:-1,FR OCS City FULL
+http://philgrim.online:2082/izanm/izanm/242281
+#EXTINF:-1,FR OCS CHOC FULL
+http://philgrim.online:2082/izanm/izanm/242282
+#EXTINF:-1,FR PARAMOUNT CHANNEL FULL
+http://philgrim.online:2082/izanm/izanm/242283
+#EXTINF:-1,FR ALTICE STUDIO FULL
+http://philgrim.online:2082/izanm/izanm/242284
+#EXTINF:-1,FR TCM Cinema FULL
+http://philgrim.online:2082/izanm/izanm/242285
+#EXTINF:-1,FR TMC FULL
+http://philgrim.online:2082/izanm/izanm/242286
+#EXTINF:-1,FR Comedie Central FULL
+http://philgrim.online:2082/izanm/izanm/242287
+#EXTINF:-1,FR TVBREIZH FULL
+http://philgrim.online:2082/izanm/izanm/242288
+#EXTINF:-1,FR AB1 FULL
+http://philgrim.online:2082/izanm/izanm/242289
+#EXTINF:-1,FR RMC Story FULL
+http://philgrim.online:2082/izanm/izanm/242290
+#EXTINF:-1,FR BFM TV FULL
+http://philgrim.online:2082/izanm/izanm/242291
+#EXTINF:-1,FR C NEWS FULL
+http://philgrim.online:2082/izanm/izanm/242292
+#EXTINF:-1,FR TV5 MONDE FULL
+http://philgrim.online:2082/izanm/izanm/242293
+#EXTINF:-1,FR LCI FULL
+http://philgrim.online:2082/izanm/izanm/242294
+#EXTINF:-1,FR LCP PUBLIC SÉNAT FULL
+http://philgrim.online:2082/izanm/izanm/242295
+#EXTINF:-1,FR Arte FULL
+http://philgrim.online:2082/izanm/izanm/242296
+#EXTINF:-1,FR _MUSEUM EAST  FULL
+http://philgrim.online:2082/izanm/izanm/242297
+#EXTINF:-1,FR Cherie 25 FULL
+http://philgrim.online:2082/izanm/izanm/242298
+#EXTINF:-1,FR NOVELAS TV FULL
+http://philgrim.online:2082/izanm/izanm/242299
+#EXTINF:-1,FR Boomerang FULL
+http://philgrim.online:2082/izanm/izanm/242300
+#EXTINF:-1,FR Cartoon Network FULL
+http://philgrim.online:2082/izanm/izanm/242301
+#EXTINF:-1,FR NICKELODEON FULL
+http://philgrim.online:2082/izanm/izanm/242302
+#EXTINF:-1,FR NICKELODEON +1 FULL
+http://philgrim.online:2082/izanm/izanm/242303
+#EXTINF:-1,FR Nickelodeon Junior FULL
+http://philgrim.online:2082/izanm/izanm/242304
+#EXTINF:-1,FR Gulli FULL
+http://philgrim.online:2082/izanm/izanm/242305
+#EXTINF:-1,FR TELETOON FULL
+http://philgrim.online:2082/izanm/izanm/242306
+#EXTINF:-1,FR Disney + FULL
+http://philgrim.online:2082/izanm/izanm/242307
+#EXTINF:-1,FR Disney Channel FULL
+http://philgrim.online:2082/izanm/izanm/242308
+#EXTINF:-1,FR DISNEY JUNIOR FULL
+http://philgrim.online:2082/izanm/izanm/242309
+#EXTINF:-1,FR Disney XD FULL
+http://philgrim.online:2082/izanm/izanm/242310
+#EXTINF:-1,FR Manga FULL
+http://philgrim.online:2082/izanm/izanm/242311
+#EXTINF:-1,FR Piwi FULL
+http://philgrim.online:2082/izanm/izanm/242312
+#EXTINF:-1,FR TIJI FULL
+http://philgrim.online:2082/izanm/izanm/242313
+#EXTINF:-1,FR Boing FULL
+http://philgrim.online:2082/izanm/izanm/242314
+#EXTINF:-1,FR CANAL J FULL
+http://philgrim.online:2082/izanm/izanm/242315
+#EXTINF:-1,FR TOONAMI FULL
+http://philgrim.online:2082/izanm/izanm/242316
+#EXTINF:-1,FR TREK FULL
+http://philgrim.online:2082/izanm/izanm/242317
+#EXTINF:-1,FR ANIMAUX FULL
+http://philgrim.online:2082/izanm/izanm/242318
+#EXTINF:-1,FR SEASON FULL
+http://philgrim.online:2082/izanm/izanm/242319
+#EXTINF:-1,FR Ushuaia TV FULL
+http://philgrim.online:2082/izanm/izanm/242320
+#EXTINF:-1,FR TOUTE L HISTOIRE
+http://philgrim.online:2082/izanm/izanm/242321
+#EXTINF:-1,FR NATIONAL GEO WILD FULL
+http://philgrim.online:2082/izanm/izanm/242322
+#EXTINF:-1,FR NATIONAL GEO FULL
+http://philgrim.online:2082/izanm/izanm/242323
+#EXTINF:-1,FR Science et Vie FULL
+http://philgrim.online:2082/izanm/izanm/242324
+#EXTINF:-1,FR DISCOVERY FAMILY FULL
+http://philgrim.online:2082/izanm/izanm/242325
+#EXTINF:-1,FR Planete + FULL
+http://philgrim.online:2082/izanm/izanm/242326
+#EXTINF:-1,FR PLANETE+ CI FULL
+http://philgrim.online:2082/izanm/izanm/242327
+#EXTINF:-1,FR PLANETE + AE FULL
+http://philgrim.online:2082/izanm/izanm/242328
+#EXTINF:-1,FR RMC Decouvert FULL
+http://philgrim.online:2082/izanm/izanm/242329
+#EXTINF:-1,FR NRJ 12 FULL
+http://philgrim.online:2082/izanm/izanm/242330
+#EXTINF:-1,FR MTV France FHD
+http://philgrim.online:2082/izanm/izanm/242331
+#EXTINF:-1,FR MEZZO LIVE FULL
+http://philgrim.online:2082/izanm/izanm/242332
+#EXTINF:-1,FR MELODY FULL
+http://philgrim.online:2082/izanm/izanm/242333
+#EXTINF:-1,FR CLIQUE FULL
+http://philgrim.online:2082/izanm/izanm/242334
+#EXTINF:-1,FR AUTOMOTOR FULL
+http://philgrim.online:2082/izanm/izanm/242335
+#EXTINF:-1,FR BFM ILE DE FRANCE FULL
+http://philgrim.online:2082/izanm/izanm/242336
+#EXTINF:-1,FR EQUIDIA LIVE FULL
+http://philgrim.online:2082/izanm/izanm/242337
+#EXTINF:-1,FR Golf Channel FULL
+http://philgrim.online:2082/izanm/izanm/242338
+#EXTINF:-1,FR Foot+ 24/24 FHD
+http://philgrim.online:2082/izanm/izanm/242339
+#EXTINF:-1,FR INFOSPORT FULL
+http://philgrim.online:2082/izanm/izanm/242340
+#EXTINF:-1,FR EUROSPORT 1 FHD
+http://philgrim.online:2082/izanm/izanm/242341
+#EXTINF:-1,FR EUROSPORT 2 FHD
+http://philgrim.online:2082/izanm/izanm/242342
+#EXTINF:-1,FR BEIN SPORTS 1 HEVC
+http://philgrim.online:2082/izanm/izanm/242343
+#EXTINF:-1,FR BEIN SPORTS 2 FHD
+http://philgrim.online:2082/izanm/izanm/242344
+#EXTINF:-1,FR BEIN SPORTS 3 FHD
+http://philgrim.online:2082/izanm/izanm/242345
+#EXTINF:-1,FR RMC Sport 01 FULL
+http://philgrim.online:2082/izanm/izanm/242346
+#EXTINF:-1,FR RMC Sport 02 FULL
+http://philgrim.online:2082/izanm/izanm/242347
+#EXTINF:-1,FR RMC SPORT 03 FULL
+http://philgrim.online:2082/izanm/izanm/242348
+#EXTINF:-1,FR RMC SPORT 04 HD
+http://philgrim.online:2082/izanm/izanm/242349
+#EXTINF:-1,FR: AMAZON PRIME 1 HD
+http://philgrim.online:2082/izanm/izanm/242350
+#EXTINF:-1,FR - AMAZON PRIME VIDEO 1 HD
+http://philgrim.online:2082/izanm/izanm/242351
+#EXTINF:-1,FR - AMAZON PRIME VIDEO 2 HD
+http://philgrim.online:2082/izanm/izanm/242352
+#EXTINF:-1,FR - AMAZON PRIME VIDEO 3 HD
+http://philgrim.online:2082/izanm/izanm/242353
+#EXTINF:-1,FR - AMAZON PRIME VIDEO 4 HD
+http://philgrim.online:2082/izanm/izanm/242354
+#EXTINF:-1,FR - AMAZON PRIME VIDEO 5 HD
+http://philgrim.online:2082/izanm/izanm/242355
+#EXTINF:-1,FR - AMAZON PRIME VIDEO 6 HD
+http://philgrim.online:2082/izanm/izanm/242356
+#EXTINF:-1,FR - AMAZON PRIME VIDEO 7 HD
+http://philgrim.online:2082/izanm/izanm/242357
+#EXTINF:-1,FR - AMAZON PRIME VIDEO 8 HD
+http://philgrim.online:2082/izanm/izanm/242358
+#EXTINF:-1,FR - AMAZON PRIME VIDEO MULTIPLEX FHd
+http://philgrim.online:2082/izanm/izanm/242359
