@@ -1,28 +1,606 @@
 <layouttype>thumbnail</layouttype>
 
+<layouttype>thumbnail</layouttype>
+
 <channels>
-<channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white]PLAYLIST[/COLOR][/B]</name>
-<thumbnail>https://images-na.ssl-images-amazon.com/images/I/410O56DAkyL.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/Golfi1/hotel/main/derg.m3u8</externallink>
-<fanart>https://imirante.com/imagens/2017/12/20/1513791715-298011502-810x471.jpg</fanart>
-<info>portugalkodi.com</info>
-</channel>
+    <channels_info>
+      <title>[COLOR yellow]******************************Le Carré D'as***************************[/COLOR]</title>
+      <genre>IPTV</genre>
+      <description>KODI TV</description>
+      <thumbnail>>https://raw.githubusercontent.com/LIONSAT/Carr-d-as/master/carre%20d'as.png</thumbnail>
+      <fanart>https://raw.githubusercontent.com/LIONSAT/Carr-d-as/master/kodi.png</fanart>
+      <date>01.06.2019</date>
+      <credits>Merci Golfi</credits>
+    </channels_info>
+<channels>
 
 <channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white]PLAYLIST[/COLOR][/B]</name>
-<thumbnail>https://cdn3.movieweb.com/i/article/QaFzHJ2eKTk6Vvd14n0J2cBVmfKryN/798:50/Disney-Plus-Launch-Movie-Tv-Episode-Catalogue.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/Golfi1/hotel/main/derg.m3u8</externallink>
-<fanart>https://imirante.com/imagens/2017/12/20/1513791715-298011502-810x471.jpg</fanart>
-<info>portugalkodi.com</info>
+      <name>[COLOR red][COLOR  yellow]•  [/COLOR]Bonjour, [/COLOR][COLOR yellow] Bienvenue[/COLOR]   [COLOR lime][COLOR  yellow][/COLOR]Sur Le Carré D'as Ultimate iptv[COLOR  red] ™[/COLOR][COLOR yellow] Le 01/05/2023[/COLOR]</name>
+     <thumbnail>https://aladain.000webhostapp.com/aladain%20logo/misaj.png</thumbnail>
+     <fanart>https://aladain.000webhostapp.com/aladain%20image/icon.png</fanart>
+     <link>http://ignoreme</link>
+    <externallink>http://pastebin.com</externallink>
 </channel>
+  </channels>
 
 <channel>
-<name>[B][COLOR lime]●[/COLOR] [COLOR white]PLAYLIST[/COLOR][/B]</name>
-<thumbnail>https://goo.gl/NHRvpX</thumbnail>
-<externallink>https://raw.githubusercontent.com/Golfi1/hotel/main/derg.m3u8</externallink>
-<fanart>https://imirante.com/imagens/2017/12/20/1513791715-298011502-810x471.jpg</fanart>
-<info>portugalkodi.com</info>
-</channel>
+      <name>[COLOR cyan][COLOR  yellow]•  [/COLOR]M-M-A[COLOR  yellow] •[/COLOR]</name>
+  <thumbnail>https://aladain.000webhostapp.com/aladain%20logo/mma.png</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink>https://aladain.000webhostapp.com/aladain/mma.png</externallink>
+</channel>       
+  </channels>
 
-</channels>
+<channel>
+      <name>[COLOR red][COLOR  yellow]•  [/COLOR]PLUTO-TV[COLOR  yellow] •[/COLOR]</name>
+  <thumbnail>https://aladain.000webhostapp.com/aladain%20logo/pluto.png</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink>https://aladain.000webhostapp.com/aladain/pluto.png</externallink>
+</channel>       
+  </channels>
+
+<channel>
+      <name>[COLOR lime][COLOR  yellow]•  [/COLOR]CANADA-FR[COLOR  yellow] •[/COLOR]</name>
+  <thumbnail>https://aladain.000webhostapp.com/aladain%20logo/canada.jpg</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink>https://aladain.000webhostapp.com/aladain/canada.png</externallink>
+</channel>       
+  </channels>
+
+<channel>
+      <name>[COLOR cyan][COLOR  yellow]•  [/COLOR]BEIN SPORT[COLOR  yellow] •[/COLOR]</name>
+  <thumbnail>https://aladain.000webhostapp.com/aladain%20logo/bein.jpg</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink>https://aladain.000webhostapp.com/aladain/bein.png</externallink>
+</channel>       
+  </channels>
+
+<channel>
+      <name>[COLOR magenta][COLOR  yellow]•  [/COLOR]CANALSAT[COLOR  yellow] •[COLOR  cyan] 1[/COLOR]</name>
+  <thumbnail>https://aladain.000webhostapp.com/aladain%20logo/golfya.png</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink>https://aladain.000webhostapp.com/amar/golfyra.htlm</externallink>
+</channel>       
+  </channels>
+                                      
+<channel>
+      <name>[COLOR magenta][COLOR  yellow]•  [/COLOR]CANALSAT[COLOR  yellow] •[COLOR  cyan] 2[/COLOR]</name>
+  <thumbnail>https://aladain.000webhostapp.com/aladain%20logo/golfya.png</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink>https://aladain.000webhostapp.com/aladain/image-2.png</externallink>
+</channel>
+  </channels>
+
+<channel>
+      <name>[COLOR magenta][COLOR  yellow]•  [/COLOR]CANALSAT[COLOR  yellow] •[COLOR  cyan] 3[/COLOR]</name>
+  <thumbnail>https://aladain.000webhostapp.com/aladain%20logo/golfya.png</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink>https://aladain.000webhostapp.com/aladain/image-3.png</externallink>
+</channel>
+  </channels>
+
+<channel>
+      <name>[COLOR magenta][COLOR  yellow]•  [/COLOR]CANALSAT[COLOR  yellow] •[COLOR  cyan] 4[/COLOR]</name>
+  <thumbnail>https://aladain.000webhostapp.com/aladain%20logo/golfya.png</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink>https://aladain.000webhostapp.com/aladain/image-4.png</externallink>
+</channel>
+  </channels>
+
+<channel>
+      <name>[COLOR magenta][COLOR  yellow]•  [/COLOR]CANALSAT[COLOR  yellow] •[COLOR  cyan] 5[/COLOR]</name>
+  <thumbnail>https://aladain.000webhostapp.com/aladain%20logo/golfya.png</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink>https://aladain.000webhostapp.com/aladain/image-5.png</externallink>
+</channel>
+  </channels>
+
+<channel>
+      <name>[COLOR magenta][COLOR  yellow]•  [/COLOR]CANALSAT[COLOR  yellow] •[COLOR  cyan] 6[/COLOR]</name>
+  <thumbnail>https://aladain.000webhostapp.com/aladain%20logo/golfya.png</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink>https://aladain.000webhostapp.com/aladain/image-6.png</externallink>
+</channel>
+  </channels>
+
+<channel>
+      <name>[COLOR magenta][COLOR  yellow]•  [/COLOR]CANALSAT[COLOR  yellow] •[COLOR  cyan] 7[/COLOR]</name>
+  <thumbnail>https://aladain.000webhostapp.com/aladain%20logo/golfya.png</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink>https://aladain.000webhostapp.com/aladain/image-7.png</externallink>
+</channel>
+  </channels>
+
+<channel>
+      <name>[COLOR magenta][COLOR  yellow]•  [/COLOR]CANALSAT[COLOR  yellow] •[COLOR  cyan] 8[/COLOR]</name>
+  <thumbnail>https://aladain.000webhostapp.com/aladain%20logo/golfya.png</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink>https://aladain.000webhostapp.com/aladain/image-8.png</externallink>
+</channel>
+  </channels>
+
+<channel>
+      <name>[COLOR magenta][COLOR  yellow]•  [/COLOR]CANALSAT[COLOR  yellow] •[COLOR  cyan] 9[/COLOR]</name>
+  <thumbnail>https://aladain.000webhostapp.com/aladain%20logo/golfya.png</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink>https://aladain.000webhostapp.com/aladain/image-9.png</externallink>
+</channel>
+  </channels>
+
+<channel>
+      <name>[COLOR magenta][COLOR  yellow]•  [/COLOR]CANALSAT[COLOR  yellow] •[COLOR  cyan] 10[/COLOR]</name>
+  <thumbnail>https://aladain.000webhostapp.com/aladain%20logo/golfya.png</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink>https://aladain.000webhostapp.com/aladain/image-10.png</externallink>
+</channel>
+  </channels>
+
+<channel>
+      <name>[COLOR magenta][COLOR  yellow]•  [/COLOR]CANALSAT[COLOR  yellow] •[COLOR  cyan] 11[/COLOR]</name>
+  <thumbnail>https://aladain.000webhostapp.com/aladain%20logo/golfya.png</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink>https://aladain.000webhostapp.com/aladain/image-11.png</externallink>
+</channel>
+  </channels>
+
+<channel>
+      <name>[COLOR magenta][COLOR  yellow]•  [/COLOR]CANALSAT[COLOR  yellow] •[COLOR  cyan] 12[/COLOR]</name>
+  <thumbnail>https://aladain.000webhostapp.com/aladain%20logo/golfya.png</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink>https://aladain.000webhostapp.com/aladain/image-12.png</externallink>
+</channel>
+  </channels>
+
+<channel>
+      <name>[COLOR magenta][COLOR  yellow]•  [/COLOR]CANALSAT[COLOR  yellow] •[COLOR  cyan] 13[/COLOR]</name>
+  <thumbnail>https://aladain.000webhostapp.com/aladain%20logo/golfya.png</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink>https://aladain.000webhostapp.com/aladain/image-13.png</externallink>
+</channel>
+  </channels>
+
+<channel>
+      <name>[COLOR magenta][COLOR  yellow]•  [/COLOR]CANALSAT[COLOR  yellow] •[COLOR  cyan] 14[/COLOR]</name>
+  <thumbnail>https://aladain.000webhostapp.com/aladain%20logo/golfya.png</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink>https://aladain.000webhostapp.com/aladain/image-14.png</externallink>
+</channel>
+  </channels>
+
+<channel>
+      <name>[COLOR magenta][COLOR  yellow]•  [/COLOR]CANALSAT[COLOR  yellow] •[COLOR  cyan] 15[/COLOR]</name>
+  <thumbnail>https://aladain.000webhostapp.com/aladain%20logo/golfya.png</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink>https://aladain.000webhostapp.com/aladain/image-15.png</externallink>
+</channel>
+  </channels>
+
+<channel>
+      <name>[COLOR magenta][COLOR  yellow]•  [/COLOR]CANALSAT[COLOR  yellow] •[COLOR  cyan] 16[/COLOR]</name>
+  <thumbnail>https://aladain.000webhostapp.com/aladain%20logo/golfya.png</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink>https://aladain.000webhostapp.com/aladain/image-16.png</externallink>
+</channel>
+  </channels>
+
+<channel>
+      <name>[COLOR magenta][COLOR  yellow]•  [/COLOR]CANALSAT[COLOR  yellow] •[COLOR  cyan] 17[/COLOR]</name>
+  <thumbnail>https://aladain.000webhostapp.com/aladain%20logo/golfya.png</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink>https://aladain.000webhostapp.com/aladain/image-17.png</externallink>
+</channel>
+  </channels>
+
+<channel>
+      <name>[COLOR magenta][COLOR  yellow]•  [/COLOR]CANALSAT[COLOR  yellow] •[COLOR  cyan] 18[/COLOR]</name>
+  <thumbnail>https://aladain.000webhostapp.com/aladain%20logo/golfya.png</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink>https://aladain.000webhostapp.com/aladain/image-18.png</externallink>
+</channel>
+  </channels>
+
+<channel>
+      <name>[COLOR magenta][COLOR  yellow]•  [/COLOR]CANALSAT[COLOR  yellow] •[COLOR  cyan] 19[/COLOR]</name>
+  <thumbnail>https://aladain.000webhostapp.com/aladain%20logo/golfya.png</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink>https://aladain.000webhostapp.com/aladain/image-19.png</externallink>
+</channel>
+  </channels>
+
+<channel>
+      <name>[COLOR magenta][COLOR  yellow]•  [/COLOR]CANALSAT[COLOR  yellow] •[COLOR  cyan] 20[/COLOR]</name>
+  <thumbnail>https://aladain.000webhostapp.com/aladain%20logo/golfya.png</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink>https://aladain.000webhostapp.com/aladain/image-20.png</externallink>
+</channel>
+  </channels>
+
+<channel>
+      <name>[COLOR magenta][COLOR  yellow]•  [/COLOR]CANALSAT[COLOR  yellow] •[COLOR  cyan] 21[/COLOR]</name>
+  <thumbnail>https://aladain.000webhostapp.com/aladain%20logo/golfya.png</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink>https://aladain.000webhostapp.com/aladain/image-21.png</externallink>
+</channel>
+  </channels>
+
+<channel>
+      <name>[COLOR magenta][COLOR  yellow]•  [/COLOR]CANALSAT[COLOR  yellow] •[COLOR  cyan] 22[/COLOR]</name>
+  <thumbnail>https://aladain.000webhostapp.com/aladain%20logo/golfya.png</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink>https://aladain.000webhostapp.com/aladain/image-22.png</externallink>
+</channel>
+  </channels>
+
+<channel>
+      <name>[COLOR magenta][COLOR  yellow]•  [/COLOR]CANALSAT[COLOR  yellow] •[COLOR  cyan] 23[/COLOR]</name>
+  <thumbnail>https://aladain.000webhostapp.com/aladain%20logo/golfya.png</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink>https://aladain.000webhostapp.com/aladain/image-23.png</externallink>
+</channel>
+  </channels>
+
+<channel>
+      <name>[COLOR magenta][COLOR  yellow]•  [/COLOR]CANALSAT[COLOR  yellow] •[COLOR  cyan] 24[/COLOR]</name>
+  <thumbnail>https://aladain.000webhostapp.com/aladain%20logo/golfya.png</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink>https://aladain.000webhostapp.com/aladain/image-24.png</externallink>
+</channel>
+  </channels>
+
+<channel>
+      <name>[COLOR magenta][COLOR  yellow]•  [/COLOR]CANALSAT[COLOR  yellow] •[COLOR  cyan] 25[/COLOR]</name>
+  <thumbnail>https://aladain.000webhostapp.com/aladain%20logo/golfya.png</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink>https://aladain.000webhostapp.com/aladain/image-25.png</externallink>
+</channel>
+  </channels>
+
+<channel>
+      <name>[COLOR magenta][COLOR  yellow]•  [/COLOR]CANALSAT[COLOR  yellow] •[COLOR  cyan] 26[/COLOR]</name>
+  <thumbnail>https://aladain.000webhostapp.com/aladain%20logo/golfya.png</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink>https://aladain.000webhostapp.com/aladain/image-26.png</externallink>
+</channel>
+  </channels>
+
+<channel>
+      <name>[COLOR magenta][COLOR  yellow]•  [/COLOR]CANALSAT[COLOR  yellow] •[COLOR  cyan] 27[/COLOR]</name>
+  <thumbnail>https://aladain.000webhostapp.com/aladain%20logo/golfya.png</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink>https://aladain.000webhostapp.com/aladain/image-27.png</externallink>
+</channel>
+  </channels>
+
+<channel>
+      <name>[COLOR magenta][COLOR  yellow]•  [/COLOR]CANALSAT[COLOR  yellow] •[COLOR  cyan] 28[/COLOR]</name>
+  <thumbnail>https://aladain.000webhostapp.com/aladain%20logo/golfya.png</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink>https://aladain.000webhostapp.com/aladain/image-28.png</externallink>
+</channel>
+  </channels>
+
+<channel>
+      <name>[COLOR magenta][COLOR  yellow]•  [/COLOR]CANALSAT[COLOR  yellow] •[COLOR  cyan] 29[/COLOR]</name>
+  <thumbnail>https://aladain.000webhostapp.com/aladain%20logo/golfya.png</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink>https://aladain.000webhostapp.com/aladain/image-29.png</externallink>
+</channel>
+  </channels>
+
+<channel>
+      <name>[COLOR magenta][COLOR  yellow]•  [/COLOR]CANALSAT[COLOR  yellow] •[COLOR  cyan] 30[/COLOR]</name>
+  <thumbnail>https://aladain.000webhostapp.com/aladain%20logo/golfya.png</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink>https://aladain.000webhostapp.com/aladain/image-30.png</externallink>
+</channel>
+  </channels>
+
+<channel>
+      <name>[COLOR magenta][COLOR  yellow]•  [/COLOR]CANALSAT[COLOR  yellow] •[COLOR  cyan] 31[/COLOR]</name>
+  <thumbnail>https://aladain.000webhostapp.com/aladain%20logo/golfya.png</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink>https://aladain.000webhostapp.com/aladain/image-31.png</externallink>
+</channel>
+  </channels>
+
+<channel>
+      <name>[COLOR magenta][COLOR  yellow]•  [/COLOR]CANALSAT[COLOR  yellow] •[COLOR  cyan] 32[/COLOR]</name>
+  <thumbnail>https://aladain.000webhostapp.com/aladain%20logo/golfya.png</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink>https://aladain.000webhostapp.com/aladain/image-32.png</externallink>
+</channel>
+  </channels>
+
+<channel>
+      <name>[COLOR magenta][COLOR  yellow]•  [/COLOR]CANALSAT[COLOR  yellow] •[COLOR  cyan] 33[/COLOR]</name>
+  <thumbnail>https://aladain.000webhostapp.com/aladain%20logo/golfya.png</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink>https://aladain.000webhostapp.com/aladain/image-33.png</externallink>
+</channel>
+  </channels>
+
+<channel>
+      <name>[COLOR magenta][COLOR  yellow]•  [/COLOR]CANALSAT[COLOR  yellow] •[COLOR  cyan] 34[/COLOR]</name>
+  <thumbnail>https://aladain.000webhostapp.com/aladain%20logo/golfya.png</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink>https://aladain.000webhostapp.com/aladain/image-34.png</externallink>
+</channel>
+  </channels>
+
+<channel>
+      <name>[COLOR magenta][COLOR  yellow]•  [/COLOR]CANALSAT[COLOR  yellow] •[COLOR  cyan] 35[/COLOR]</name>
+  <thumbnail>https://aladain.000webhostapp.com/aladain%20logo/golfya.png</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink>https://aladain.000webhostapp.com/aladain/image-35.png</externallink>
+</channel>
+  </channels>
+
+<channel>
+      <name>[COLOR magenta][COLOR  yellow]•  [/COLOR]CANALSAT[COLOR  yellow] •[COLOR  cyan] 36[/COLOR]</name>
+  <thumbnail>https://aladain.000webhostapp.com/aladain%20logo/golfya.png</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink>https://aladain.000webhostapp.com/aladain/image-36.png</externallink>
+</channel>
+  </channels>
+
+<channel>
+      <name>[COLOR magenta][COLOR  yellow]•  [/COLOR]CANALSAT[COLOR  yellow] •[COLOR  cyan] 37[/COLOR]</name>
+  <thumbnail>https://aladain.000webhostapp.com/aladain%20logo/golfya.png</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink>https://aladain.000webhostapp.com/aladain/image-37.png</externallink>
+</channel>
+  </channels>
+
+<channel>
+      <name>[COLOR magenta][COLOR  yellow]•  [/COLOR]CANALSAT[COLOR  yellow] •[COLOR  cyan] 38[/COLOR]</name>
+  <thumbnail>https://aladain.000webhostapp.com/aladain%20logo/golfya.png</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink>https://aladain.000webhostapp.com/aladain/image-38.png</externallink>
+</channel>
+  </channels>
+
+<channel>
+      <name>[COLOR magenta][COLOR  yellow]•  [/COLOR]CANALSAT[COLOR  yellow] •[COLOR  cyan] 39[/COLOR]</name>
+  <thumbnail>https://aladain.000webhostapp.com/aladain%20logo/golfya.png</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink>https://aladain.000webhostapp.com/aladain/image-39.png</externallink>
+</channel>
+  </channels>
+
+<channel>
+      <name>[COLOR magenta][COLOR  yellow]•  [/COLOR]CANALSAT[COLOR  yellow] •[COLOR  cyan] 40[/COLOR]</name>
+  <thumbnail>https://aladain.000webhostapp.com/aladain%20logo/golfya.png</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink>https://aladain.000webhostapp.com/aladain/image-40.png</externallink>
+</channel>
+  </channels>
+
+<channel>
+      <name>[COLOR magenta][COLOR  yellow]•  [/COLOR]CANALSAT[COLOR  yellow] •[COLOR  cyan] 41[/COLOR]</name>
+  <thumbnail>https://aladain.000webhostapp.com/aladain%20logo/golfya.png</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink>https://aladain.000webhostapp.com/aladain/image-41.png</externallink>
+</channel>
+  </channels>
+
+<channel>
+      <name>[COLOR magenta][COLOR  yellow]•  [/COLOR]CANALSAT[COLOR  yellow] •[COLOR  cyan] 42[/COLOR]</name>
+  <thumbnail>https://aladain.000webhostapp.com/aladain%20logo/golfya.png</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink>https://aladain.000webhostapp.com/aladain/image-42.png</externallink>
+</channel>
+  </channels>
+
+<channel>
+      <name>[COLOR magenta][COLOR  yellow]•  [/COLOR]CANALSAT[COLOR  yellow] •[COLOR  cyan] 43[/COLOR]</name>
+  <thumbnail>https://aladain.000webhostapp.com/aladain%20logo/golfya.png</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink>https://aladain.000webhostapp.com/aladain/image-43.png</externallink>
+</channel>
+  </channels>
+
+<channel>
+      <name>[COLOR magenta][COLOR  yellow]•  [/COLOR]CANALSAT[COLOR  yellow] •[COLOR  cyan] 44[/COLOR]</name>
+  <thumbnail>https://aladain.000webhostapp.com/aladain%20logo/golfya.png</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink>https://aladain.000webhostapp.com/aladain/image-44.png</externallink>
+</channel>
+  </channels>
+
+<channel>
+      <name>[COLOR magenta][COLOR  yellow]•  [/COLOR]CANALSAT[COLOR  yellow] •[COLOR  cyan] 45[/COLOR]</name>
+  <thumbnail>https://aladain.000webhostapp.com/aladain%20logo/golfya.png</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink>https://aladain.000webhostapp.com/aladain/image-45.png</externallink>
+</channel>
+  </channels>
+
+<channel>
+      <name>[COLOR magenta][COLOR  yellow]•  [/COLOR]CANALSAT[COLOR  yellow] •[COLOR  cyan] 46[/COLOR]</name>
+  <thumbnail>https://aladain.000webhostapp.com/aladain%20logo/golfya.png</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink>https://aladain.000webhostapp.com/aladain/image-46.png</externallink>
+</channel>
+  </channels>
+
+<channel>
+      <name>[COLOR magenta][COLOR  yellow]•  [/COLOR]CANALSAT[COLOR  yellow] •[COLOR  cyan] 47[/COLOR]</name>
+  <thumbnail>https://aladain.000webhostapp.com/aladain%20logo/golfya.png</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink>https://aladain.000webhostapp.com/aladain/image-47.png</externallink>
+</channel>
+  </channels>
+
+<channel>
+      <name>[COLOR magenta][COLOR  yellow]•  [/COLOR]CANALSAT[COLOR  yellow] •[COLOR  cyan] 48[/COLOR]</name>
+  <thumbnail>https://aladain.000webhostapp.com/aladain%20logo/golfya.png</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink>https://aladain.000webhostapp.com/aladain/image-48.png</externallink>
+</channel>
+  </channels>
+
+<channel>
+      <name>[COLOR magenta][COLOR  yellow]•  [/COLOR]CANALSAT[COLOR  yellow] •[COLOR  cyan] 49[/COLOR]</name>
+  <thumbnail>https://aladain.000webhostapp.com/aladain%20logo/golfya.png</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink>https://aladain.000webhostapp.com/aladain/image-49.png</externallink>
+</channel>
+  </channels>
+
+<channel>
+      <name>[COLOR magenta][COLOR  yellow]•  [/COLOR]CANALSAT[COLOR  yellow] •[COLOR  cyan] 50[/COLOR]</name>
+  <thumbnail>https://aladain.000webhostapp.com/aladain%20logo/golfya.png</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink>https://aladain.000webhostapp.com/aladain/image-50.png</externallink>
+</channel>
+  </channels>
+
+<channel>
+      <name>[COLOR magenta][COLOR  yellow]•  [/COLOR]CANALSAT[COLOR  yellow] •[COLOR  cyan] 51[/COLOR]</name>
+  <thumbnail>https://aladain.000webhostapp.com/aladain%20logo/golfya.png</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink>https://aladain.000webhostapp.com/aladain/image-51.png</externallink>
+</channel>
+  </channels>
+
+
+
+<channel>
+      <name>[COLOR lime][COLOR  yellow]•  [/COLOR]VOD[COLOR  yellow] •[COLOR  cyan] 1[/COLOR]</name>
+  <thumbnail>https://aladain.000webhostapp.com/aladain%20logo/vod.png</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink>https://aladain.000webhostapp.com/aladain/photo-1.png</externallink>
+</channel>
+  </channels>
+
+<channel>
+      <name>[COLOR lime][COLOR  yellow]•  [/COLOR]VOD[COLOR  yellow] •[COLOR  cyan] 2[/COLOR]</name>
+  <thumbnail>https://aladain.000webhostapp.com/aladain%20logo/vod.png</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink>https://aladain.000webhostapp.com/aladain/photo-2.png</externallink>
+</channel>
+  </channels>
+
+<channel>
+      <name>[COLOR lime][COLOR  yellow]•  [/COLOR]VOD[COLOR  yellow] •[COLOR  cyan] 3[/COLOR]</name>
+  <thumbnail>https://aladain.000webhostapp.com/aladain%20logo/vod.png</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink>https://aladain.000webhostapp.com/aladain/photo-3.png</externallink>
+</channel>
+  </channels>
+
+<channel>
+      <name>[COLOR lime][COLOR  yellow]•  [/COLOR]VOD[COLOR  yellow] •[COLOR  cyan] 4[/COLOR]</name>
+  <thumbnail>https://aladain.000webhostapp.com/aladain%20logo/vod.png</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink>https://aladain.000webhostapp.com/aladain/photo-4.png</externallink>
+</channel>
+  </channels>
+
+<channel>
+      <name>[COLOR lime][COLOR  yellow]•  [/COLOR]VOD[COLOR  yellow] •[COLOR  cyan] 5[/COLOR]</name>
+  <thumbnail>https://aladain.000webhostapp.com/aladain%20logo/vod.png</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink>https://aladain.000webhostapp.com/aladain/photo-5.png</externallink>
+</channel>
+  </channels>
+
+<channel>
+      <name>[COLOR lime][COLOR  yellow]•  [/COLOR]VOD[COLOR  yellow] •[COLOR  cyan] 6[/COLOR]</name>
+  <thumbnail>https://aladain.000webhostapp.com/aladain%20logo/vod.png</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink>https://aladain.000webhostapp.com/aladain/photo-6.png</externallink>
+</channel>
+  </channels>
+
+
+
+<channel>
+      <name>[COLOR lime][COLOR  yellow]•  [/COLOR]VOD[COLOR  yellow] •[COLOR  cyan] 7[/COLOR]</name>
+  <thumbnail>https://aladain.000webhostapp.com/aladain%20logo/vod.png</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink>https://aladain.000webhostapp.com/aladain/photo-4.png</externallink>
+</channel>
+  </channels>
+
+<channel>
+      <name>[COLOR lime][COLOR  yellow]•  [/COLOR]VOD[COLOR  yellow] •[COLOR  cyan] 8[/COLOR]</name>
+  <thumbnail>https://aladain.000webhostapp.com/aladain%20logo/vod.png</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink>https://aladain.000webhostapp.com/aladain/photo-8.png</externallink>
+</channel>
+  </channels>
+
+<channel>
+      <name>[COLOR lime][COLOR  yellow]•  [/COLOR]VOD[COLOR  yellow] •[COLOR  cyan] 9[/COLOR]</name>
+  <thumbnail>https://aladain.000webhostapp.com/aladain%20logo/vod.png</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink>https://aladain.000webhostapp.com/aladain/photo-9.png</externallink>
+</channel>
+  </channels>
+
+
