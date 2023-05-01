@@ -1,0 +1,20 @@
+<layouttype>thumbnail</layouttype>
+
+<channel>
+      <name>[COLOR red][COLOR  yellow]•  [/COLOR]Bonjour, [/COLOR][COLOR yellow] Bienvenue[/COLOR]   [COLOR lime][COLOR  yellow][/COLOR]Sur Le Carré D'as Ultimate iptv[COLOR  red] ™[/COLOR][COLOR yellow] Le 01/05/2023[/COLOR]</name>
+     <thumbnail>https://aladain.000webhostapp.com/aladain%20logo/misaj.png</thumbnail>
+     <fanart>https://aladain.000webhostapp.com/aladain%20image/icon.png</fanart>
+     <link>http://ignoreme</link>
+    <externallink>http://pastebin.com</externallink>
+</channel>
+  </channels>
+
+<channel>
+      <name>[COLOR magenta][COLOR  yellow]•  [/COLOR]CANALSAT[COLOR  yellow] •[COLOR  cyan] 1[/COLOR]</name>
+  <thumbnail>https://aladain.000webhostapp.com/aladain%20logo/golfya.png</thumbnail>
+<fanart></fanart>
+<link>http://ignoreme</link>
+   <externallink>https://raw.githubusercontent.com/Golfi1/hotel/main/item.txt</externallink>
+</channel>       
+  </channels>
+                                      
